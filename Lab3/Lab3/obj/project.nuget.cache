@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "AB94heTa4byksHyoZgzouZirL57a+1Pp03aNRX+J2xjxObzq5NfiUrsyOleKeAwy8WBD56KYq2UWfq78iAjrpw==",
+  "dgSpecHash": "trZ3n7ahN/+NvNDmJNaoR0Fbl2JAr5DV9HLMiY3XSfcnwQyhl4lGIdoyYlHAJ907zJTzB7M1ExKEHgvC2tZqKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\Lab3\\Lab3\\Lab3\\Lab3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
